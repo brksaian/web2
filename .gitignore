@@ -38,6 +38,6 @@ testem.log
 Thumbs.db
 
 # Outras pastas
-/trabalho_final
-/material
-/trabalho_final/lol_lavanderia
+trabalho_final/
+material/
+trabalho_final/lol_lavanderia/
